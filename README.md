@@ -11,4 +11,8 @@
 
 <p>Tampilan Program</p>
 
-![gambar](personsetget.png)
+![gambar](https://github.com/fianal/Praktikum2/blob/main/Pertemuan%204/personsetget.png)
+
+<p>Tampilan Output</p>
+
+![gambar](
